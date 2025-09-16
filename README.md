@@ -1,6 +1,6 @@
 # In-Depth Analysis of Canada's GDP Growth and Inflation Relationship (1961-2025)
 
-## 📖 Project Overview
+## Project Overview
 
 This project provides a comprehensive analysis of the relationship between Canada's quarterly Real GDP Growth and its quarterly Inflation Rate, using over 60 years of historical data from Statistics Canada. The primary objective was to test the classic economic hypothesis (**Phillips Curve Hypothesis**) that a high rate of economic growth is associated with a high rate of inflation.
 
@@ -13,7 +13,7 @@ This project serves as a portfolio piece demonstrating a complete data science w
 **[You can view the full analysis in the Jupyter Notebook here.](GDP_Inflation_Analysis.ipynb)**
 
 ---
-## 🔑 Key Findings
+## Key Findings
 
 The central conclusion of this analysis is that the simple, direct relationship between GDP growth and inflation, often taught in introductory economics, is **not supported** by the Canadian historical data.
 
@@ -24,7 +24,7 @@ The central conclusion of this analysis is that the simple, direct relationship 
 * **Historical Context Matters:** The time-series plots reveal a complex economic history, showing periods of high inflation and volatile growth in the 1970s-80s, followed by decades of relative stability. This context helps explain why a simple, static relationship does not hold true over the entire period.
 
 ---
-## 📊 Final Visualization Dashboard
+## Final Visualization Dashboard
 
 The final output is a 2x2 dashboard that provides a complete visual summary of the analysis.
 
@@ -36,7 +36,7 @@ The final output is a 2x2 dashboard that provides a complete visual summary of t
 3.  **Bottom Panels (Time-Series Plots):** Chart the historical journey of both GDP growth and inflation, highlighting key economic events and periods of volatility.
 
 ---
-## 🛠️ Methodology and Technical Details
+## Methodology and Technical Details
 
 The project was conducted in a Jupyter Notebook using Python and the following core libraries: `pandas` for data manipulation and `matplotlib` for visualization.
 
